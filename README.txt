@@ -11,7 +11,7 @@ Authors
 -------
 
 :atReal Team - contac@atreal.net :
-    Jean-Nicolas Bès [drjnut]
+    Jean-Nicolas Bes [drjnut]
 
 
 Credits

@@ -7,4 +7,4 @@ Changelog for atreal.filestorage.common
 -----------------------
 
 - First public release
-[Jean-Nicolas Bès]
+[Jean-Nicolas Bes]
