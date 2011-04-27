@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.0rc1'
+version = '1.0.0'
 
 setup(name='atreal.filestorage.common',
       version=version,
@@ -16,8 +16,8 @@ setup(name='atreal.filestorage.common',
         ],
       keywords='plone atreal file blob',
       author='atReal',
-      author_email='contact@atreal.net',
-      url='http://www.atreal.net/',
+      author_email='contact@atreal.fr',
+      url='http://www.atreal.fr/',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['atreal', 'atreal.filestorage'],
