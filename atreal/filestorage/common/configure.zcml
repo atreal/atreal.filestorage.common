@@ -7,11 +7,10 @@
                  factory=".annotation.AnnotFileStore"
                  provides=".interfaces.IAnnotFileStore"
             />
-    
-    <five:implements
-        class="OFS.Image.File"
-        interface=".interfaces.IOfsFile"
-        />
+
+    <class class="OFS.Image.File">
+        <implements interface=".interfaces.IOfsFile" />
+    </class>
 
     <adapter for=".interfaces.IOfsFile"
                  factory=".zodbstore.OfsToOmni"
